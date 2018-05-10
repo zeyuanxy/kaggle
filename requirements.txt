@@ -1,0 +1,6 @@
+kaggle
+numpy
+scikit-learn
+xgboost
+jupyter
+matplotlib
